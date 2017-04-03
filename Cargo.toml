@@ -1,6 +1,6 @@
 [package]
 name = "calc"
 version = "0.1.0"
-authors = ["Lukas Andreas Muller <lamuller@protonmail.com>"]
+authors = ["Lukas Andreas Muller <hello@lukasam.com>"]
 
 [dependencies]
